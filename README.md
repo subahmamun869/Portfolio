@@ -15,7 +15,8 @@ This repository is where I showcase my projects, learning journey, and work.
 ### Project 1: DarazPlus - Enhanced E-Commerce Platform
 - **Description:** This project focuses on creating and defining an upgraded e-commerce platform inspired by Daraz which is a popular e-commerce platform in Bangladesh, with the goal of uniting customers and sellers in a seamless online marketplace. The system is intended to provide a faster, safer, and more intuitive shopping experience by increasing user experience, streamlining order administration, and ensuring transaction security.
 - **Technologies used:** UML diagrams, Scrum/Agile & Waterfall methodologies, ER Modeling, Survey & Interview Analysis.
-- **Link:** [GitHub Repository/Live Demo](#)
+- **Link:**  **DarazPlus – Enhanced E-Commerce Platform**  [View Report](./MarketEase_Report.pdf)
+
 
 
 
