@@ -24,7 +24,8 @@ This repository is where I showcase my projects, learning journey, and work.
 
 - **Email:** subahmamun869@gmail.com  
 - **GitHub:** [https://github.com/SubahMamun](https://github.com/SubahMamun)  
-- **LinkedIn:** 
+- **LinkedIn:** (www.linkedin.com/in/subah-mamun-362363261)
+
 
 
 
